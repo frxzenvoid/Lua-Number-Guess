@@ -1,13 +1,14 @@
-# Number Guess Game
+# 🎮 Number Guess Game
 
-A simple number guessing game written in Lua.
+A simple console-based number guessing game written in Lua.
 
 ## Features
 
-- Random number generation (1–100)
-- Unlimited guessing attempts
-- Hint messages (higher/lower)
-- Counts the total number of attempts
+- 🎲 Random number generation (1–100)
+- 💡 Higher/Lower hints
+- 📈 Attempt counter
+- 🏆 Performance rating
+- 🎉 Friendly console interface
 
 ## Requirements
 
@@ -19,6 +20,23 @@ A simple number guessing game written in Lua.
 lua main.lua
 ```
 
+## Project Structure
+
+```
+Number-Guess/
+│
+├── main.lua
+└── README.md
+```
+
+## Version
+
+**1.0**
+
 ## Author
 
 Asaf
+
+## License
+
+MIT License
